@@ -21,9 +21,9 @@ ogimage = "images/work1.jpg"
 [params.projects]
 
 [[params.projects.list]]
-title = "Name of the work 1"
+title = "Инструментарий"
 url = "#"
-description = "Describe your work summary"
+description = "Мои методы исследования и решения ваших задач"
 image = "images/work1.jpg"
 w = "780"
 h = "518"
@@ -32,17 +32,17 @@ h = "518"
 [params.subprojects]
 
 [[params.subprojects.list]]
-title = "The work 2"
+title = "Мне доверяют"
 url = "#"
-description = "Lorem ipsum dolor sit amet"
+description = "Рекомендации партнёров и клиентов"
 image = "images/work2.jpg"
 w = "780"
 h = "522"
 
 [[params.subprojects.list]]
-title = "The work 3"
+title = "Мой путь"
 url = "#"
-description = "Consectetur adipiscing elit"
+description = "История моего опыта"
 image = "images/work3.jpg"
 w = "780"
 h = "518"
